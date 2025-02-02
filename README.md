@@ -14,7 +14,7 @@ To install VariableStarsObserver in PixInsight 1.9.x, copy/past below URL
 in PixInsight **RESOURCES > Updates > Manage Repositories**.
 This will add new entry **VariableStarsObserver** in **PROCESS > ImageInspection**
 
-DON'T FORGET THE TRAILING SLASH "/".
+DON'T FORGET THE TRAILING SLASH "/".\
 DO NOT TRY TO OPEN URL WITH A BROWSER (indeed, this will redirect you to the website).
 
 VariableStarsObserver is __not__ compatible with PixInsight 1.8 and below versions.
