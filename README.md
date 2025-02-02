@@ -1,17 +1,17 @@
 # Variable Stars Observer for PixInsight 1.9.x
 
 ## Description
-Variable Stars Observer is based on the well-known PixInsight Dynamic PSF process.
+Variable Stars Observer is based on the well-known PixInsight Dynamic PSF process.\
 It provides PixInsight users with an easy way to estimate the magnitude of variable stars.
 
-This is the first version.
+This is the first version.\
 I am seeking feedback from experienced astronomers in variable star analysis.
 
 ## Install
-To install VariableStarsObserver in PixInsight 1.9.x, copy/past below URL
-- `https://pixinsight.deepskyforge.com/update/variablestarsobserver/`
-
+To install VariableStarsObserver in PixInsight 1.9.x, copy/past below URL\
+`https://pixinsight.deepskyforge.com/update/variablestarsobserver/`\
 in PixInsight **RESOURCES > Updates > Manage Repositories**.
+
 This will add new entry **VariableStarsObserver** in **PROCESS > ImageInspection**
 
 DON'T FORGET THE TRAILING SLASH "/".\
@@ -22,7 +22,7 @@ VariableStarsObserver is __not__ compatible with PixInsight 1.8 and below versio
 ## Usage
 
 To use VariableStarsObserver, simply open an image in PixInsight and launch the VariableStarsObserver process from the menu **PROCESS > ImageInspection**.
-In the process dialog box, click on the grey star button in the top right corner of the "Variable Stars Observer" section.}
+In the process dialog box, click on the grey star button in the top right corner of the "Variable Stars Observer" section.
 
 The process will query the International Variable Stars Index to retrieve all variable stars available in the image's field of view.
 It will then perform a second query to the AAVSO Plotter to retrieve all the constant stars and associated data.
